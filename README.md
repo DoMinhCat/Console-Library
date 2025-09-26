@@ -11,10 +11,10 @@ This console application allows you to perform basic library management tasks:
 ## Key concepts used:
 - **Bubble sort**
 - Packages
-- Types de variables
-- Manipulation de slice/table
-- Input/output
-- Fonctions
+- Types and variables
+- Manipulation of slice/table
+- Console input/output
+- Functions
 - Ellipsis (...)
-- Export struct to CSV file
+- Export a struct to CSV file
 - Convert int - string, float - string
